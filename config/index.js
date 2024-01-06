@@ -1,3 +1,3 @@
-import {CLERK_PUBLISHABLE_KEY} from "@env";
+import {CLERK_PUBLISHABLE_KEY, API_KEY} from "@env";
 
-export default {CLERK_PUBLISHABLE_KEY};
+export default {CLERK_PUBLISHABLE_KEY, API_KEY};

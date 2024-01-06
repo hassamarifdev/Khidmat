@@ -58,9 +58,11 @@ const styles = StyleSheet.create({
   text: {
     color: Colors.White,
     fontSize: 20,
+    fontFamily: 'outfit-medium',
   },
   welcome: {
     color: Colors.White,
+    fontFamily: 'outfit-medium',
   },
   search:{
     marginTop: 15,
@@ -82,5 +84,6 @@ const styles = StyleSheet.create({
     borderRadius: 8, 
     width: '85%',
     fontSize: 16,
+    fontFamily: 'outfit',
   },
 });
